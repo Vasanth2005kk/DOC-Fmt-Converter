@@ -50,9 +50,9 @@ A simple web-based tool to convert between various document and Document formats
 
 ## 📚 Supported Formats
 
-   **📥 Input Formats :**
+   **📥 Input File Formats :**
    `.azw`, `.azw3`, `.cbz`, `.cbr`, `.cbc`, `.chm`, `.docx`, `.epub`, `.fb2`, `.html`, `.htmlz`,`.lit`, `.lrf`, `.mobi`, `.odt`, `pdf`, `.prc`, `.pdb`, `.pml`, `.rb`, `.rtf`, `.snb`, `.tcr`,
    `.txt`, `.txtz`
 
-   **📤 Output Formats :**
+   **📤 Output File Formats :**
    `.azw3`, `.cbc`, `.docx`, `.epub`, `.fb2`, `.htmlz`, `.lit`, `.lrf`, `.mobi`, `.odt`, `.pdf`,`.pdb`, `.pml`, `.rb`, `.rtf`, `.snb`, `.tcr`, `.txt`, `.txtz`, `.zip`
